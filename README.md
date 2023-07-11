@@ -1,4 +1,4 @@
-# 📚 LibarY Management System
+# 📚 Libaray Management System
 <img src="https://zoella.co.uk/wp-content/uploads/2020/01/zoella-visiting-local-library-gif-1.gif" width="880" height="400" alt="Alt Text">
 
 
