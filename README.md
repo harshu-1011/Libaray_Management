@@ -1,6 +1,7 @@
 # 📚 LibarY Management System
 
-![Library Management System](https://github.com/harshu-1011/Libaray_Management/blob/main/library.jpg)
+![Header](https://github.com/ksdiwe/ksdiwe/blob/main/ksdiwe%20banner.png "Header")
+<h1 align="center">Hola <img src="https://github.com/ksdiwe/ksdiwe/blob/main/wave.gif" width="30px"></h1>
 
 The LibarY Management System is a stand-alone application designed to efficiently collect and maintain records of students who borrow books from the library. It utilizes MySQL as the database management system and is implemented using Core Java with the AWT and Swing frameworks. The application can be executed through the Command Prompt (CMD) and requires the XAMPP tool for seamless operation.
 
