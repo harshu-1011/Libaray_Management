@@ -1,6 +1,6 @@
 # 📚 LibarY Management System
-<img src="https://github.com/harshu-1011/Libaray_Management/blob/main/zoella-visiting-local-library-gif-1.gif" width="880" height="400" alt="Alt Text">
-![Alt Text]("https://github.com/harshu-1011/Libaray_Management/blob/main/zoella-visiting-local-library-gif-1.gif")
+<img src="https://zoella.co.uk/wp-content/uploads/2020/01/zoella-visiting-local-library-gif-1.gif" width="880" height="400" alt="Alt Text">
+
 
 
 The LibarY Management System is a stand-alone application designed to efficiently collect and maintain records of students who borrow books from the library. It utilizes MySQL as the database management system and is implemented using Core Java with the AWT and Swing frameworks. The application can be executed through the Command Prompt (CMD) and requires the XAMPP tool for seamless operation.
