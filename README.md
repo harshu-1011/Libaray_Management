@@ -1,4 +1,4 @@
-# LibarY Management System
+# 📚 LibarY Management System
 
 ![Library Management System](library.png)
 
@@ -31,7 +31,7 @@ To run the LibarY Management System, follow these steps:
 2. Start XAMPP: Launch the XAMPP control panel and start the Apache and MySQL services.
 3. Set up the Database: Open a web browser and enter "http://localhost/phpmyadmin" to access the phpMyAdmin interface. Create a new database named "library" and import the provided SQL script to set up the necessary tables and data.
 4. Compile and Execute the Application: Open a Command Prompt window and navigate to the project directory. Compile the Java files using the Java compiler, and then execute the application using the Java Virtual Machine (JVM) by running the main class file.
-
+   
 ## javac *.java
 ## java Main
 
@@ -42,11 +42,11 @@ To run the LibarY Management System, follow these steps:
 
 The LibarY Management System offers the following features:
 
-- **Student Management**: Add, update, and delete student records, including personal information and borrowing history.
-- **Book Management**: Manage the library's book inventory, including adding new books, updating details, and tracking availability.
-- **Borrowing System**: Enable students to borrow books from the library, with due date reminders and fine calculation for late returns.
-- **Reports and Statistics**: Generate reports on borrowed books, due dates, fines, and other library-related data to facilitate administrative tasks.
-- **Search Functionality**: Search and retrieve student or book information based on various criteria such as name, ID, title, or author.
+- ✨ **Student Management**: Add, update, and delete student records, including personal information and borrowing history.
+- 📚 **Book Management**: Manage the library's book inventory, including adding new books, updating details, and tracking availability.
+- 🔑 **Borrowing System**: Enable students to borrow books from the library, with due date reminders and fine calculation for late returns.
+- 📊 **Reports and Statistics**: Generate reports on borrowed books, due dates, fines, and other library-related data to facilitate administrative tasks.
+- 🔍 **Search Functionality**: Search and retrieve student or book information based on various criteria such as name, ID, title, or author.
 
 ## Conclusion
 
